@@ -1,0 +1,7 @@
+echo "# TBCE-Carte-Interactive" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/karineOEDC/TBCE-Carte-Interactive.git
+git push -u origin main
